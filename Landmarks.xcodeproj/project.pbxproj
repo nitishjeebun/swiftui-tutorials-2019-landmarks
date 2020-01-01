@@ -35,6 +35,7 @@
 		FB7101AE23BCEBC4006C0865 /* chincoteague.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB7101A223BCEBC4006C0865 /* chincoteague.jpg */; };
 		FB7101AF23BCEBC4006C0865 /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB7101A323BCEBC4006C0865 /* stmarylake.jpg */; };
 		FB7101B123BD0003006C0865 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7101B023BD0003006C0865 /* UserData.swift */; };
+		FB7101B323BD04D0006C0865 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7101B223BD04D0006C0865 /* Badge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		FB7101A223BCEBC4006C0865 /* chincoteague.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chincoteague.jpg; sourceTree = "<group>"; };
 		FB7101A323BCEBC4006C0865 /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
 		FB7101B023BD0003006C0865 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		FB7101B223BD04D0006C0865 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,7 @@
 			isa = PBXGroup;
 			children = (
 				FB71016923BCD80A006C0865 /* CircleImage.swift */,
+				FB7101B223BD04D0006C0865 /* Badge.swift */,
 				FB71016B23BCD8FA006C0865 /* MapView.swift */,
 			);
 			path = "Supporting Views";
@@ -366,6 +369,7 @@
 			files = (
 				FB71017223BCDD86006C0865 /* Data.swift in Sources */,
 				FB71013A23BCD2E4006C0865 /* AppDelegate.swift in Sources */,
+				FB7101B323BD04D0006C0865 /* Badge.swift in Sources */,
 				FB71016A23BCD80A006C0865 /* CircleImage.swift in Sources */,
 				FB71016C23BCD8FA006C0865 /* MapView.swift in Sources */,
 				FB71019523BCE17B006C0865 /* LandmarkList.swift in Sources */,
