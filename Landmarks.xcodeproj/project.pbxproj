@@ -36,6 +36,7 @@
 		FB7101AF23BCEBC4006C0865 /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB7101A323BCEBC4006C0865 /* stmarylake.jpg */; };
 		FB7101B123BD0003006C0865 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7101B023BD0003006C0865 /* UserData.swift */; };
 		FB7101B323BD04D0006C0865 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7101B223BD04D0006C0865 /* Badge.swift */; };
+		FB7101B523BD0554006C0865 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7101B423BD0554006C0865 /* HexagonParameters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,6 +92,7 @@
 		FB7101A323BCEBC4006C0865 /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
 		FB7101B023BD0003006C0865 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		FB7101B223BD04D0006C0865 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		FB7101B423BD0554006C0865 /* HexagonParameters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				FB71013D23BCD2E4006C0865 /* LandmarkDetail.swift */,
 				FB71017623BCDF8E006C0865 /* LandmarkRow.swift */,
 				FB71019423BCE17B006C0865 /* LandmarkList.swift */,
+				FB7101B423BD0554006C0865 /* HexagonParameters.swift */,
 				FB71013F23BCD2E8006C0865 /* Assets.xcassets */,
 				FB71014423BCD2E8006C0865 /* LaunchScreen.storyboard */,
 				FB71014723BCD2E8006C0865 /* Info.plist */,
@@ -367,6 +370,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB7101B523BD0554006C0865 /* HexagonParameters.swift in Sources */,
 				FB71017223BCDD86006C0865 /* Data.swift in Sources */,
 				FB71013A23BCD2E4006C0865 /* AppDelegate.swift in Sources */,
 				FB7101B323BD04D0006C0865 /* Badge.swift in Sources */,
