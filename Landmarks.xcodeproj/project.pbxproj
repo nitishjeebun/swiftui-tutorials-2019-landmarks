@@ -16,6 +16,7 @@
 		FB71015123BCD2E8006C0865 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB71015023BCD2E8006C0865 /* LandmarksTests.swift */; };
 		FB71015C23BCD2E8006C0865 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB71015B23BCD2E8006C0865 /* LandmarksUITests.swift */; };
 		FB71016A23BCD80A006C0865 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB71016923BCD80A006C0865 /* CircleImage.swift */; };
+		FB71016C23BCD8FA006C0865 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB71016B23BCD8FA006C0865 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		FB71015B23BCD2E8006C0865 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		FB71015D23BCD2E8006C0865 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB71016923BCD80A006C0865 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		FB71016B23BCD8FA006C0865 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				FB71014723BCD2E8006C0865 /* Info.plist */,
 				FB71014123BCD2E8006C0865 /* Preview Content */,
 				FB71016923BCD80A006C0865 /* CircleImage.swift */,
+				FB71016B23BCD8FA006C0865 /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				FB71013A23BCD2E4006C0865 /* AppDelegate.swift in Sources */,
 				FB71016A23BCD80A006C0865 /* CircleImage.swift in Sources */,
+				FB71016C23BCD8FA006C0865 /* MapView.swift in Sources */,
 				FB71013C23BCD2E4006C0865 /* SceneDelegate.swift in Sources */,
 				FB71013E23BCD2E4006C0865 /* ContentView.swift in Sources */,
 			);
