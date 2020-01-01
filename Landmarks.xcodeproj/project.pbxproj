@@ -34,6 +34,7 @@
 		FB7101AD23BCEBC4006C0865 /* silversalmoncreek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB7101A123BCEBC4006C0865 /* silversalmoncreek.jpg */; };
 		FB7101AE23BCEBC4006C0865 /* chincoteague.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB7101A223BCEBC4006C0865 /* chincoteague.jpg */; };
 		FB7101AF23BCEBC4006C0865 /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB7101A323BCEBC4006C0865 /* stmarylake.jpg */; };
+		FB7101B123BD0003006C0865 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7101B023BD0003006C0865 /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +88,7 @@
 		FB7101A123BCEBC4006C0865 /* silversalmoncreek.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silversalmoncreek.jpg; sourceTree = "<group>"; };
 		FB7101A223BCEBC4006C0865 /* chincoteague.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chincoteague.jpg; sourceTree = "<group>"; };
 		FB7101A323BCEBC4006C0865 /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
+		FB7101B023BD0003006C0865 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,6 +186,7 @@
 			children = (
 				FB71017023BCDD86006C0865 /* Data.swift */,
 				FB71016F23BCDD86006C0865 /* Landmark.swift */,
+				FB7101B023BD0003006C0865 /* UserData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				FB71013C23BCD2E4006C0865 /* SceneDelegate.swift in Sources */,
 				FB71013E23BCD2E4006C0865 /* LandmarkDetail.swift in Sources */,
 				FB71017723BCDF8E006C0865 /* LandmarkRow.swift in Sources */,
+				FB7101B123BD0003006C0865 /* UserData.swift in Sources */,
 				FB71017123BCDD86006C0865 /* Landmark.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
