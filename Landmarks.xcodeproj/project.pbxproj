@@ -59,6 +59,7 @@
 		FB8A1D1023BD9FCF00B805D7 /* charleyrivers_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB8A1D0D23BD9FCE00B805D7 /* charleyrivers_feature.jpg */; };
 		FB8A1D1123BD9FCF00B805D7 /* turtlerock_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB8A1D0E23BD9FCE00B805D7 /* turtlerock_feature.jpg */; };
 		FB8A1D1223BD9FCF00B805D7 /* stmarylake_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB8A1D0F23BD9FCF00B805D7 /* stmarylake_feature.jpg */; };
+		FB8A1D1423BDA61500B805D7 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8A1D1323BDA61500B805D7 /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -137,6 +138,7 @@
 		FB8A1D0D23BD9FCE00B805D7 /* charleyrivers_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers_feature.jpg; sourceTree = "<group>"; };
 		FB8A1D0E23BD9FCE00B805D7 /* turtlerock_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turtlerock_feature.jpg; sourceTree = "<group>"; };
 		FB8A1D0F23BD9FCF00B805D7 /* stmarylake_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake_feature.jpg; sourceTree = "<group>"; };
+		FB8A1D1323BDA61500B805D7 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -262,6 +264,7 @@
 				FB8A1CF823BD8FC500B805D7 /* CategoryRow.swift */,
 				FB8A1D0323BD986B00B805D7 /* HikeBadge.swift */,
 				FB8A1D0B23BD9F7200B805D7 /* FeatureCard.swift */,
+				FB8A1D1323BDA61500B805D7 /* PageControl.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -475,6 +478,7 @@
 				FB71013E23BCD2E4006C0865 /* LandmarkDetail.swift in Sources */,
 				FB71017723BCDF8E006C0865 /* LandmarkRow.swift in Sources */,
 				FB8A1D0223BD97CC00B805D7 /* ProfileSummary.swift in Sources */,
+				FB8A1D1423BDA61500B805D7 /* PageControl.swift in Sources */,
 				FB7101B123BD0003006C0865 /* UserData.swift in Sources */,
 				FB71017123BCDD86006C0865 /* Landmark.swift in Sources */,
 				FB8A1D0623BD9B0A00B805D7 /* ProfileEditor.swift in Sources */,
