@@ -22,7 +22,7 @@ struct PageViewController: UIViewControllerRepresentable {
             navigationOrientation: .horizontal)
         
         pageViewController.dataSource = context.coordinator
-
+        
         return pageViewController
     }
     
