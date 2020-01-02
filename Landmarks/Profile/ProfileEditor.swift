@@ -44,7 +44,7 @@ struct ProfileEditor: View {
             VStack(alignment: .leading, spacing: 20) {
                 Text("Goal Date").bold()
                 DatePicker(
-                    "Goal Date",
+                    "",
                     selection: $profile.goalDate,
                     in: dateRange,
                     displayedComponents: .date)
