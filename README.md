@@ -27,5 +27,7 @@ https://developer.apple.com/tutorials/swiftui/working-with-ui-controls
 - 08 - Interfacing with UIKit  
 https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit
 
+- 09 - Creating a watchOS App  
+https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app
 
 Each section is developped and committed seperately
