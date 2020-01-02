@@ -48,7 +48,6 @@
 		FB8A1CF523BD0E7900B805D7 /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8A1CF323BD0E7900B805D7 /* GraphCapsule.swift */; };
 		FB8A1CF723BD8F1700B805D7 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8A1CF623BD8F1700B805D7 /* CategoryHome.swift */; };
 		FB8A1CF923BD8FC500B805D7 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8A1CF823BD8FC500B805D7 /* CategoryRow.swift */; };
-		FB8A1CFB23BD918100B805D7 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8A1CFA23BD918100B805D7 /* CategoryItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,7 +115,6 @@
 		FB8A1CF323BD0E7900B805D7 /* GraphCapsule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
 		FB8A1CF623BD8F1700B805D7 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 		FB8A1CF823BD8FC500B805D7 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
-		FB8A1CFA23BD918100B805D7 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,7 +234,6 @@
 				FB7101BA23BD08E8006C0865 /* RotatedBadgeSymbol.swift */,
 				FB71017623BCDF8E006C0865 /* LandmarkRow.swift */,
 				FB8A1CF823BD8FC500B805D7 /* CategoryRow.swift */,
-				FB8A1CFA23BD918100B805D7 /* CategoryItem.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -416,7 +413,6 @@
 				FB7101B323BD04D0006C0865 /* Badge.swift in Sources */,
 				FB8A1CF423BD0E7900B805D7 /* HikeGraph.swift in Sources */,
 				FB71016A23BCD80A006C0865 /* CircleImage.swift in Sources */,
-				FB8A1CFB23BD918100B805D7 /* CategoryItem.swift in Sources */,
 				FB8A1CEE23BD0E0100B805D7 /* HikeView.swift in Sources */,
 				FB71016C23BCD8FA006C0865 /* MapView.swift in Sources */,
 				FB8A1CEB23BD0DF700B805D7 /* Hike.swift in Sources */,
